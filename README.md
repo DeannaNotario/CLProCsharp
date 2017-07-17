@@ -1,2 +1,0 @@
-# CLProCsharp
-CL project Csharp
